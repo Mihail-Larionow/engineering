@@ -9,7 +9,7 @@ namespace AbstractFactory
     //Асбтрактный класс AbstractCar
     abstract class AbstractCar
     {
-        //Название автомобиля
+        //Марка автомобиля
         public string Name { get; set; }
 
         //Вес автомобиля
