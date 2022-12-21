@@ -12,10 +12,13 @@ namespace AbstractFactory
         {
             CarFactory ford_car = new FordFactory(); //Экземпляр класса FordFactory
             CarFactory audi_car = new AudiFactory(); //Экземпляр класса AudiFactory
+            CarFactory chevrolet_car = ChevroletFactory.Factory; //Экземпляр класса ChevroletFactory
             Client c1 = new Client(ford_car); //Экземпляр класса Client
             Client c2 = new Client(audi_car); //Экземпляр класса Client
+            Client c3 = new Client(chevrolet_car); //Экземпляр класса Client
             Console.WriteLine("Максимальная скорость {0} составляет {1} км/час. Вес кузова: {2} кг", c1.ToString(), c1.RunMaxSpeed(), c1.Weght()); //Вывод
             Console.WriteLine("Максимальная скорость {0} составляет {1} км/час. Вес кузова: {2} кг", c2.ToString(), c2.RunMaxSpeed(), c2.Weght()); //Вывод
+            Console.WriteLine("Максимальная скорость {0} составляет {1} км/час. Вес кузова: {2} кг", c3.ToString(), c3.RunMaxSpeed(), c3.Weght()); //Вывод
         }
     }
 }
