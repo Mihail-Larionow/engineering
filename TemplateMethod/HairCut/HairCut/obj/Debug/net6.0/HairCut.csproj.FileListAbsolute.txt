@@ -1,0 +1,15 @@
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\bin\Debug\net6.0\HairCut.exe
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\bin\Debug\net6.0\HairCut.deps.json
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\bin\Debug\net6.0\HairCut.runtimeconfig.json
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\bin\Debug\net6.0\HairCut.dll
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\bin\Debug\net6.0\HairCut.pdb
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.AssemblyInfoInputs.cache
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.AssemblyInfo.cs
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.dll
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\refint\HairCut.dll
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.pdb
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\HairCut.genruntimeconfig.cache
+C:\Users\mihai\source\repos\Mihail-Larionow\engineering\TemplateMethod\HairCut\HairCut\obj\Debug\net6.0\ref\HairCut.dll
