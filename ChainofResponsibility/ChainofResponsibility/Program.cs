@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static ChainofResponsibility.ConcretePaymentHandler;
 
-namespace TemplateMethod
+namespace ChainofResponsibility
 {
     internal class Program
     {
